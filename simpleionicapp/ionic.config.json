@@ -1,0 +1,7 @@
+{
+  "name": "simpleionicapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
